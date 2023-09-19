@@ -1,0 +1,28 @@
+body {
+    background-color: #f5f5dd;
+}
+
+div.kwadrat1 {
+    width: 160px;
+    height: 160px;
+    margin: 20px;
+    background: black;
+}
+div.kwadrat2 {
+    width: 160px;
+    height: 160px;
+    margin: 20px;
+    background: rgba(0,0,0,.75); 
+}
+div.kwadrat3 {
+    width: 160px;
+    height: 160px;
+    margin: 20px;
+    background: rgba(0,0,0,.5); 
+}
+div.kwadrat4 {
+    width: 160px;
+    height: 160px;
+    margin: 20px;
+    background: rgba(0,0,0,.25); 
+}
